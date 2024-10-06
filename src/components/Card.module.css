@@ -1,0 +1,6 @@
+/* global.css */
+.customImgClass {
+  border-radius: 15px;
+  object-fit: cover;
+  width: 100%;
+}
